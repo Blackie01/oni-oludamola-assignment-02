@@ -14,7 +14,6 @@ const assignment = {};
  * @returns number the sum of the numbers
  */
 
-const arrayOfNumbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 function sumOfNumbers(arrayOfNumbers) {
   let total = 0;
@@ -24,7 +23,6 @@ function sumOfNumbers(arrayOfNumbers) {
     return total;
 }
 
-// sumOfNumbers(arrayOfNumbers);
 assignment.sumOfNumbers = sumOfNumbers;
 
 

@@ -70,17 +70,6 @@ assignment.countEvenNumbers = countEvenNumbers;
  * @returns Array the converted temperatures in Fahrenheit
  */
 
-// const converted = [];
-
-// function celsiusToFahrenheit(arrayOfNumbers) {
-//   const j = 0
-//   for (i = 1; i<=arrayOfNumbers.length; i++){
-//     let j = Math.trunc((i * 1.8) + 32)
-//     converted.push(j)
-//   }
-//     return converted;
-// }
-
 // assignment.celsiusToFahrenheit = celsiusToFahrenheit;
 
 
